@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@walletconnect/ethereum-provider": "^2.15.1",
     "ethers": "^6.13.2",
     "magic-sdk": "^28.5.0",
     "moralis-v1": "^1.11.0",
@@ -27,5 +26,5 @@
   },
   "engines": {
     "node": ">=18"
- }
+  }
 }
