@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react"
 import { useWeb3Contract, useMoralis } from "react-moralis"
 import abi from "../constants/abi.json"
-import contractAddresses from "../constants/contractAddresses.json"
+import contractAddresses from "../constants/ContractAddresses.json"
 import { useNotification } from "web3uikit"
 import { ethers } from "ethers"
 import EnterComponents from "./EnterComponents"
